@@ -1,5 +1,5 @@
 <!--
-Creator: <Name>
+Creator: Alex White
 Market: SF
 -->
 
@@ -11,7 +11,10 @@ Market: SF
 
 ## Exercise
 
-#### Requirements
+#### Introduction
+- Start by pseudo-coding with your partner. Focus on the low numbers first.
+
+#### Challenge
 
 - In this lab we will be creating an algorithm to_words that can turn Arabic numbers into english words:
   ```
