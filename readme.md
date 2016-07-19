@@ -12,31 +12,22 @@ Market: SF
 ## Exercise
 
 #### Introduction
-- Start by pseudo-coding with your partner. Focus on the low numbers first.
+- Your Product Manager wants to add a bit of customization to your 
+order response email. She wants to add the order quantity in words to 
+you the email so it looks more customized. 
 
-#### Challenge
+Requirments:
+Given an integer from 1-100 return a string with value of the number in
+words.
 
-- In this lab we will be creating an algorithm to_words that can turn Arabic numbers into english words:
-  ```
-  to_words(1)   # => "one"
-  to_words(32)  # => "thirty two"
-  to_words(185) # => "one hundred eighty five"
-  ```
-
-  - Start by pseudo-coding and start by thinking only about the numbers under 10. Then work on numbers up to 100.
+- Start by pseudo-coding and start by thinking only about the numbers under 10. Then work on numbers up to 100.
 
 **Bonus:**
 - Can your algorithm work for numbers 100-999?
 - Can it work up to 1000? 1000000?
 - Can you make your algorithm recursive?
 
-### Self Evaluation
+## Licensing
 
-During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
-
-- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
-- **Organization:** Do you thoughtfully implement best coding patterns and practices?
-- **Collaboration:** Do you make an effort solve problems and share your ideas with others?
-- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
-- **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
-- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know?
+All content is licensed under a CC­BY­NC­SA 4.0 license. All software code is licensed under GNU GPLv3. For commercial 
+use or alternative licensing, please contact <a href="mailto:legal@ga.co">legal@ga.co</a>.
